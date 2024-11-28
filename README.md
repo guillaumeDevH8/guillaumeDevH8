@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guillaumeDevH8
+- 👀 I’m interested in being better 
+- 🌱 I’m currently learning Web & Mobile development
+- 📫 How to reach me guillaume@henri8.com
+- ⚡ Fun fact: still in internship
